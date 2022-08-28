@@ -30,7 +30,7 @@ return(
     <button>Chat with us (9AM -6PM)</button>
     <p>jo@rentomojo.com</p>
     <p>DOWNLOAD APP</p>
-    <img src="" />
+    {/* <img src="" /> */}
 
     </div>
 
